@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="thumb_radius">15</integer>
+    <color name="thumb_color">@color/colorAccent</color>
+</resources>
